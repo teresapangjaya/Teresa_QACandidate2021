@@ -1,0 +1,19 @@
+{
+  "name": "quadrant-tech-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand --testPathPattern=/tests/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "jest-puppeteer": "^6.0.2",
+    "puppeteer": "^13.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
